@@ -14,7 +14,7 @@
 과제 작업이 완료되면 다음 순서에 따라 제출을 진행합니다.
 
 1.  **Push:** 로컬 브랜치에서 과제물을 작업한 뒤, 본인의 원격 저장소(**Origin**)에 **Push**합니다.
-2.  **Pull Request (PR):** 본인의 저장소에서 원본 저장소(**Upstream**)의 `개인 브랜치`(ex. 15-chj)로 **Pull Request**를 생성합니다.
+2.  **Pull Request (PR):** 본인의 저장소에서 원본 저장소(**Upstream**)의 개인 브랜치(ex. `15-chj`)로 **Pull Request**를 생성합니다.
 3.  **PR 제목 양식:** 아래 형식을 반드시 지켜주세요.
     > **[n기 이름] 과제명 제출** 
     > *(예시: [15기 천하진] Git A to Z 과제 제출)*
@@ -33,6 +33,7 @@
 * **정상 제출:** 코드 리뷰 후 문제가 없으면 `checked` 라벨이 부착되고 **Merge**됩니다.
 * **수정 요청:** 보완이 필요한 경우 `more enhancement` 라벨이 부착되며, **Comment**를 통해 수정 요청이 전달됩니다. 수정 후 다시 Push하면 자동으로 PR에 반영됩니다. 과제물을 다시 제출했다면 `enhancement` 라벨을 달아 주세요.
 
-**5. 참고 사항**
+**5. 참고 자료**
 
 * 포크 & 클론: https://github.com/user-attachments/assets/d8783afc-6760-40dc-b345-f28ad8fa0beb
+* Pull Request: https://github.com/user-attachments/files/19333213/default.zip
